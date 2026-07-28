@@ -8,7 +8,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-red.svg)
 ![Neuromatch Academy](https://img.shields.io/badge/Neuromatch-Academy-purple.svg)
 
-**Neuromatch Academy 2026 Final Project**
+**Neuromatch Academy 2025 Final Project**
 
 *Investigating whether neural representations learned in the primary visual cortex (V1) during supervised learning generalize to unsupervised learning.*
 
