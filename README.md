@@ -223,7 +223,7 @@ The notebook includes visualizations such as:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/V1-Generalization.git
+git clone https://github.com/soheil-norouzi/V1-Generalization.git
 
 cd V1-Generalization
 ```
